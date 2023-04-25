@@ -9,7 +9,7 @@ Fullstack Web Developer
 
 ## Quién soy?
 
-Es mi sueño decirlo, y si, Soy Full Stack Developer orientado al diseño Front-end
+Soy Full Stack Developer
 
 Tengo experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos individuales y grupales, y me he especializado en el desarrollo de Frontend y de Backend, aplicando tecnologías como React, Redux, Node, Sequelize y GIT, las cuales me ayudaron a afianzar mis conocimientos en desarrollo web y a aplicar metodologías ágiles para el trabajo en equipo. En nuestro proyecto de E-commerce, tuve un rol destacado en el desarrollo del Frontend, y aplicamos tecnologías innovadoras como Chakra UI. Con capacidad de comunicación efectiva, trabajo en equipo, pensamiento crítico y adaptabilidad.
 
