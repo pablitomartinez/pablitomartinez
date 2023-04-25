@@ -27,7 +27,7 @@ El bootcamp de Henry me ha permitido adquirir nuevos conocimientos y adquirir ex
 * Sequelize
 * GIT
 
-En el desarrollo del proyecto final con el que me gradue en Henry, e aplicado las tecnologias como Typescript y en el frontend Chakra UI.
+En el desarrollo del proyecto final con el que me gradué en Henry, he aplicado las tecnologías como Typescript y en frontend Chakra UI, las cuales fueron todo un desafío hermoso, y hoy me estoy aventurando en conocer más a fondo estas tecnologías 🤓.
 
 
 ## No dudes en contactarme!
