@@ -14,6 +14,24 @@ Es mi sueño decirlo, y si, Soy Full Stack Developer orientado al diseño Front-
 Tengo experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos individuales y grupales, y me he especializado en el desarrollo de Frontend y de Backend, aplicando tecnologías como React, Redux, Node, Sequelize y GIT, las cuales me ayudaron a afianzar mis conocimientos en desarrollo web y a aplicar metodologías ágiles para el trabajo en equipo. En nuestro proyecto de E-commerce, tuve un rol destacado en el desarrollo del Frontend, y aplicamos tecnologías innovadoras como Chakra UI. Con capacidad de comunicación efectiva, trabajo en equipo, pensamiento crítico y adaptabilidad.
 
 
+## Que tecnologías uso?
+
+El bootcamp de Henry me ha permitido adquirir nuevos conocimientos y adquirir experiencia fundamental en estas  tecnologías:
+
+
+* Javascript
+* React.js
+* Node.js
+* Express.js
+* PostgresSQL
+* Sequelize
+* GIT
+
+En el desarrollo del proyecto final con el que me gradue en Henry, e aplicado las tecnologias como Typescript y en el frontend Chakra UI.
+
+
+## No dudes en contactarme!
+
 
 
 
